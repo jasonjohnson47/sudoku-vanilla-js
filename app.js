@@ -1081,7 +1081,7 @@
         });
 
         if (allRowsIncludeAllValues && allColumnsIncludeAllValues && allNonetsIncludeAllValues) {
-            console.log('Sudoku completed successfully!');
+            alert('Sudoku completed successfully!');
         }
 
     }
